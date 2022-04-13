@@ -1,0 +1,8 @@
+C:\Users\bayou\Desktop\C#Fundamentals\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\bayou\Desktop\C#Fundamentals\CSProject\bin\Debug\CSProject.exe
+C:\Users\bayou\Desktop\C#Fundamentals\CSProject\bin\Debug\CSProject.pdb
+C:\Users\bayou\Desktop\C#Fundamentals\CSProject\obj\Debug\CSProject.csproj.AssemblyReference.cache
+C:\Users\bayou\Desktop\C#Fundamentals\CSProject\obj\Debug\CSProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayou\Desktop\C#Fundamentals\CSProject\obj\Debug\CSProject.csproj.CoreCompileInputs.cache
+C:\Users\bayou\Desktop\C#Fundamentals\CSProject\obj\Debug\CSProject.exe
+C:\Users\bayou\Desktop\C#Fundamentals\CSProject\obj\Debug\CSProject.pdb
